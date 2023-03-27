@@ -41,8 +41,8 @@ https://www.youtube.com/watch?v=Z2Dwxv-EMTM
 ##### Task 4
 Dungeons and Dragons Character Generator
 In Dungeons and Dragons, players roll 3 dice to generate statistics for their characters.  The statistics recorded are:
-strength
-intelligence
+strength sum of 3
+intelligence sum of 3
 wisdom
 dexterity
 constitution
