@@ -3,7 +3,7 @@ import random
 
 print("Welcome to DnD dice roller")
 
-choice = int(input("(Choose 1 for 'Roll 4 dice, discard lowest)-Dont pick. Choose 2 for 'Roll 3 dice, reroll 1's. Or choose 3 to just roll 3 dice:  "))
+choice = int(input("(Choose 1 for 'Roll 4 dice, discard lowest). Choose 2 for 'Roll 3 dice, reroll 1's. Or choose 3 to just roll 3 dice:  "))
 if choice == 1:
     d1 = random.randint(1,6)
     d2 = random.randint(1,6)
